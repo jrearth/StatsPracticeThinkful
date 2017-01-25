@@ -1,7 +1,8 @@
 The data orginates from U.S. National Oceanic and Atmospheric Administration’s (NOAA) storm database.
-The second most dangerous event type is the excessive heat. The economic impact of weather events was also analyzed. 
-Flash floods and thunderstorm winds caused billions of dollars in property damages between 1950 and 2011. 
+File size 4.6GB
 
-1. Which caused the most damage 
-2. divided by region 
-3. Long term impact visulization/
+1. Using heat mapping of region as independet variable testing both the health and economic impact. Also Does A correlation. 
+
+Independent vartiable: Type of natural diaster, heat map, 
+Dependent variables: economic, vs. health
+"repdata%2Fdata%2FStormData.csv.bz2"
