@@ -1,7 +1,7 @@
 The data orginates from U.S. National Oceanic and Atmospheric Administration’s (NOAA) storm database.
 File size 4.6GB
 
-1. Using heat mapping of region as independet variable testing both the health and economic impact. Also Does A correlation. 
+1. Using heat mapping of region as independet variable testing both the health and economic impact. Also Does A correlation exist.
 
 Independent vartiable: Type of natural diaster, heat map, 
 Dependent variables: economic, vs. health
